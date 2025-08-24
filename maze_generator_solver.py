@@ -121,7 +121,6 @@ class MazeSolver:
                 path.append(node)
                 node = self.parent.get(node, None)
             path.reverse()
-            sa.WaveObject.from_wave_file("found.wav").play()
 
             for (py, px) in path:
                 display_maze[py, px] = (0, 255, 0)
