@@ -1,4 +1,4 @@
-## A MAZE GENERATOR AND SOLVER DEVELOPED IN PYTHON
+## A MAZE GENERATOR AND SOLVER DEVELOPED IN PYTHON BY ANISH AND ARPIT
 
 This project generates maze using Recursive backtracking algorithm and displays the maze using opencv-python library
 While solving this project uses breadth first search algorithm that finds shortest path between start point and end point
